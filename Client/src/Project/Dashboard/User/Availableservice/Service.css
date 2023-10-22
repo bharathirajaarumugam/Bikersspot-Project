@@ -1,0 +1,53 @@
+/* .card{
+    width: 18rem
+}
+.First{
+    color: orange;
+    border-radius: 50px;
+}
+.Two{
+    color: darkorange;
+    text-align: end;
+    font-weight: bolder;
+}
+.card-cell{
+    border: 5px solid black;
+    border-radius: 10px;
+}
+ */
+ .div-bg{
+    background-color: #f5f7fa;
+}
+.heading{
+    letter-spacing: 5px;
+    color: #183b56;
+}
+.btn-book{
+    color: #ff9f00;
+    border: 2px solid #ff9f00;
+}
+
+.shadow__btn {
+    padding: 10px 20px;
+    border: none;
+    font-size: 17px;
+    color: #fff;
+    border-radius: 7px;
+    letter-spacing: 4px;
+    font-weight: 700;
+    text-transform: uppercase;
+    transition: 0.5s;
+    transition-property: box-shadow;
+  }
+  
+  .shadow__btn {
+    background: rgb(0,140,255);
+    box-shadow: 0 0 25px rgb(0,140,255);
+  }
+  
+  .shadow__btn:hover {
+    box-shadow: 0 0 5px rgb(0,140,255),
+                0 0 25px rgb(0,140,255),
+                0 0 50px rgb(0,140,255),
+                0 0 100px rgb(0,140,255);
+  }

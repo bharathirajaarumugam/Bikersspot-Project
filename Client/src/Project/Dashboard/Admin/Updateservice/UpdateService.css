@@ -1,0 +1,36 @@
+.admin_bg {
+    background-image: url('https://ridocare.com/wp-content/uploads/2017/02/mobile-banner_landscape.jpg');
+    height: 100vh;
+    width: 100vw;
+    background-size: cover;
+  }
+
+
+  .card-bikepart{
+    width: 18rem;
+  }
+  .food-box{
+    position: relative;
+    background-color: #fff;
+    padding: 10px;
+    box-shadow: 0 1px 4px rgba(40, 37, 37, 0.1);
+    border-radius: 3px;
+  }
+  
+  .pic{
+    overflow: hidden;
+  }
+  
+  .pic:hover img{
+  transform: scale(1.5);
+  }
+  
+  .food-img{
+    transition: 0.4s;
+    aspect-ratio: 1/1;
+    object-fit: cover;
+  }
+  
+  .food-price{
+    font-weight:500 ;
+  }
